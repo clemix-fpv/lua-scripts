@@ -302,3 +302,13 @@ Simple EdgeTX LUA script for BW radios to read logs files on the display. Rotary
 <a href="https://github.com/nikbg3/EdgeTXLogViewerBW">
 <img src="https://github.com/user-attachments/assets/43b69333-3dcc-4186-a3e8-68544e4cb3fc">
 </a>
+
+## [Notes Viewer](https://github.com/clemix-fpv/EdgeTXNotes)
+Simple EdgeTX LUA script to display custom text files. The idea is to have your cheatsheet for frequencies, stick commands or PID tuning hints always at hand.
+
+<a href="https://github.com/clemix-fpv/EdgeTXNotes">
+<img src="https://github.com/clemix-fpv/EdgeTXNotes/blob/main/images/file_list.png" width="300">
+<img src="https://github.com/clemix-fpv/EdgeTXNotes/blob/main/images/stick_commands.png" width="300"
+<img src="https://github.com/clemix-fpv/EdgeTXNotes/blob/main/images/frequencies.png" width="300"
+</a>
+
